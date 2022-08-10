@@ -1,0 +1,7 @@
+perro
+gato
+conejo
+avión
+rata
+billete
+fotocopia
